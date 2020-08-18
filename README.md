@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi)](https://github.com/Jiezhi/github-readme-stats)
+[![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi&show_icons=true)](https://github.com/Jiezhi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiezhi&hide=javascript,html)](https://github.com/Jiezhi/github-readme-stats)
 <!--
