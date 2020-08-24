@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+Python   2 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.14 % 
+HTML     1 hr 55 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.21 % 
+SQL      1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Java     1 hr 31 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
+XML      24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+```
 <!--END_SECTION:waka-->
