@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 August, 2020 - 31 August, 2020
+Week: 25 August, 2020 - 01 September, 2020
 
-Python   6 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   40.69 % 
-SQL      3 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.69 % 
-Other    2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Bash     1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Groovy   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Python   5 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.65 % 
+Other    2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.92 % 
+SQL      2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Bash     1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Groovy   1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 ```
 <!--END_SECTION:waka-->
 
