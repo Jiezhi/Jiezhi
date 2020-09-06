@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2020 - 04 September, 2020
+Week: 29 August, 2020 - 05 September, 2020
 
 Python   4 hrs           ████████▒░░░░░░░░░░░░░░░░   33.82 % 
 SQL      1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
