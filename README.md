@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2020 - 11 September, 2020
+Week: 05 September, 2020 - 12 September, 2020
 
 SQL     2 hrs 30 mins   █████████████░░░░░░░░░░░░   52.31 % 
-Java    1 hr 34 mins    ████████▒░░░░░░░░░░░░░░░░   32.75 % 
+Java    1 hr 34 mins    ████████▒░░░░░░░░░░░░░░░░   32.76 % 
 XML     28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 Bash    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
