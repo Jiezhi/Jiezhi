@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2020 - 04 October, 2020
+Week: 28 September, 2020 - 05 October, 2020
 
-SQL     24 mins         █████████░░░░░░░░░░░░░░░░   35.50 % 
-Scala   23 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 % 
-XML     20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.09 % 
+Scala   23 mins         █████████▓░░░░░░░░░░░░░░░   38.61 % 
+XML     20 mins         ████████▒░░░░░░░░░░░░░░░░   33.75 % 
+SQL     16 mins         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
 ```
 <!--END_SECTION:waka-->
 
