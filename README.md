@@ -4,7 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 October, 2020 - 08 October, 2020
+
+Java         1 hr 13 mins    ████████████▓░░░░░░░░░░░░   50.48 % 
+SQL          50 mins         ████████▓░░░░░░░░░░░░░░░░   34.65 % 
+XML          19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Scala        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
