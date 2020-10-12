@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2020 - 10 October, 2020
+Week: 04 October, 2020 - 11 October, 2020
 
 SQL     1 hr 17 mins    ██████████░░░░░░░░░░░░░░░   40.32 % 
 Java    1 hr 13 mins    █████████▓░░░░░░░░░░░░░░░   38.08 % 
