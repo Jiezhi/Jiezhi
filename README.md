@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2020 - 17 October, 2020
+Week: 11 October, 2020 - 18 October, 2020
 
 Scala   1 hr 57 mins    ██████████▒░░░░░░░░░░░░░░   40.75 % 
 Java    1 hr 45 mins    █████████▒░░░░░░░░░░░░░░░   36.73 % 
