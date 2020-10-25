@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2020 - 23 October, 2020
+Week: 17 October, 2020 - 24 October, 2020
 
 Scala        8 hrs 13 mins   █████████████████▓░░░░░░░   70.18 % 
 SQL          1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 % 
