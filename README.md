@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2020 - 06 November, 2020
+Week: 31 October, 2020 - 07 November, 2020
 
 SQL     54 mins         ██████████████████████▓░░   91.21 % 
 Other   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
