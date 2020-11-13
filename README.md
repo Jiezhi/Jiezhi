@@ -4,10 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
-SQL     2 hrs 45 mins   ████████████████████████▒   96.67 % 
-Other   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+SQL     4 hrs 13 mins   █████████████████████████   99.80 % 
 ```
 <!--END_SECTION:waka-->
 
