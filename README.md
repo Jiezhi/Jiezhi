@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2020 - 01 December, 2020
+Week: 25 November, 2020 - 02 December, 2020
 
-SQL          36 mins         ███████████████▓░░░░░░░░░   62.04 % 
-Java         17 mins         ███████▒░░░░░░░░░░░░░░░░░   29.68 % 
-Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+SQL          31 mins         ██████████████▒░░░░░░░░░░   57.95 % 
+Java         17 mins         ████████▒░░░░░░░░░░░░░░░░   32.88 % 
+Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 <!--END_SECTION:waka-->
 
