@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2020 - 13 December, 2020
+Week: 07 December, 2020 - 14 December, 2020
 
-Other   23 hrs 56 mins  ████████████████████████▓   98.37 % 
-SQL     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other   23 hrs 47 mins  ████████████████████████▓   98.24 % 
+SQL     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 Bash    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
