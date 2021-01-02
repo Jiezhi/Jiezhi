@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
-Other        43 hrs 17 mins  ████████████████████████▒   97.81 % 
-SQL          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other   35 hrs 55 mins  ████████████████████████▒   97.58 % 
+SQL     50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+INI     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
 
