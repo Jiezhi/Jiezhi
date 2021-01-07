@@ -4,12 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
-Other    44 hrs 38 mins  ████████████████████████▓   98.22 % 
-SQL      32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other    44 hrs 32 mins  ████████████████████████▓   98.65 % 
+SQL      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 SPARQL   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-INI      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
 
