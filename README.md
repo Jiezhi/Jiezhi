@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2021 - 13 January, 2021
+Week: 07 January, 2021 - 14 January, 2021
 
-Other      47 hrs 7 mins   █████████████████████████   99.67 % 
-SQL        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Scala      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other   43 hrs 12 mins  █████████████████████████   99.76 % 
+SQL     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Scala   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 <!--END_SECTION:waka-->
 
