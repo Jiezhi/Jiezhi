@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2021 - 15 January, 2021
+Week: 09 January, 2021 - 16 January, 2021
 
-Other   43 hrs 35 mins  █████████████████████████   99.83 % 
-SQL     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other   40 hrs 28 mins  █████████████████████████   99.81 % 
+SQL     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
