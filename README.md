@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2021 - 31 January, 2021
+Week: 25 January, 2021 - 01 February, 2021
 
-Other   40 hrs 15 mins  █████████████████████████   99.56 % 
-Bash    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-SQL     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other   41 hrs 26 mins  █████████████████████████   99.57 % 
+Bash    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+SQL     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 
