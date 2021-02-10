@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2021 - 08 February, 2021
+Week: 02 February, 2021 - 09 February, 2021
 
-Python     4 hrs 34 mins   ████████████████▒░░░░░░░░   64.77 % 
-Markdown   1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Other      33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Bash       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-SQL        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Python       4 hrs 34 mins   ███████████████████░░░░░░   76.41 % 
+Markdown     1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
