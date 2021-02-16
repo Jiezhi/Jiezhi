@@ -4,12 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2021 - 14 February, 2021
-
-Python       1 hr 37 mins    ██████████████████▓░░░░░░   75.32 % 
-Markdown     21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Text         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-SQL          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
