@@ -4,9 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
-
+Bash       16 mins         ██████████░░░░░░░░░░░░░░░   39.84 % 
+Other      15 mins         ████████▓░░░░░░░░░░░░░░░░   35.29 % 
+Python     10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
 ```
 <!--END_SECTION:waka-->
 
