@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 February, 2021 - 22 February, 2021
+Week: 16 February, 2021 - 23 February, 2021
 
-Other      17 mins         █████████▓░░░░░░░░░░░░░░░   38.20 % 
-Bash       16 mins         █████████▓░░░░░░░░░░░░░░░   38.04 % 
-Python     10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 % 
+Python     1 hr 44 mins    ██████████████████▒░░░░░░   73.97 % 
+Bash       19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Other      17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 ```
 <!--END_SECTION:waka-->
 
