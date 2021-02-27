@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 February, 2021 - 25 February, 2021
+Week: 19 February, 2021 - 26 February, 2021
 
-Python       2 hrs 10 mins   ████████████████▒░░░░░░░░   64.68 % 
-Markdown     20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Bash         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Other        17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Git Config   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Python       1 hr 59 mins    ███████████████████░░░░░░   75.73 % 
+Markdown     20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Git Config   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
 
