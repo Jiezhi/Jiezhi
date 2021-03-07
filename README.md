@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 February, 2021 - 05 March, 2021
+Week: 27 February, 2021 - 06 March, 2021
 
 Markdown   48 mins         ███████████▓░░░░░░░░░░░░░   46.14 % 
 SQL        23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 % 
