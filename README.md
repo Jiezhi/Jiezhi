@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 March, 2021 - 08 March, 2021
+Week: 02 March, 2021 - 09 March, 2021
 
 Python     1 hr 4 mins     ████████▓░░░░░░░░░░░░░░░░   34.31 % 
 Markdown   48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.13 % 
