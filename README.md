@@ -4,12 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 March, 2021 - 04 April, 2021
+Week: 29 March, 2021 - 05 April, 2021
 
-Scala      25 mins         ██████████████████░░░░░░░   71.78 % 
-Java       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Bash       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Java       3 mins          █████████████████████▒░░░   85.40 % 
 ```
 <!--END_SECTION:waka-->
 
