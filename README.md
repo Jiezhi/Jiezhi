@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 April, 2021 - 10 April, 2021
+Week: 04 April, 2021 - 11 April, 2021
 
 Python     6 hrs 4 mins    ███████████████████▒░░░░░   77.52 % 
 SQL        46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
