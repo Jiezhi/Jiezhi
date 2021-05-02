@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 April, 2021 - 30 April, 2021
+Week: 24 April, 2021 - 01 May, 2021
 
 SQL          52 mins         ████████░░░░░░░░░░░░░░░░░   32.56 % 
 Java         42 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.54 % 
