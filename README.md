@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 April, 2021 - 04 May, 2021
+Week: 28 April, 2021 - 05 May, 2021
 
-SQL          52 mins         ████████████████▒░░░░░░░░   65.12 % 
-Python       27 mins         ████████▓░░░░░░░░░░░░░░░░   34.72 % 
+SQL          38 mins         ███████████████░░░░░░░░░░   60.33 % 
+Python       25 mins         ██████████░░░░░░░░░░░░░░░   39.67 % 
 ```
 <!--END_SECTION:waka-->
 
