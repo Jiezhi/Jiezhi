@@ -4,11 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2021 - 07 June, 2021
+Week: 01 June, 2021 - 08 June, 2021
 
-XML          15 mins         ███████████████▓░░░░░░░░░   62.54 % 
-Markdown     5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.08 % 
-Bash         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Markdown   8 mins          ██████████████████████▓░░   91.24 % 
 ```
 <!--END_SECTION:waka-->
 
