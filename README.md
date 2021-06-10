@@ -4,9 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2021 - 08 June, 2021
+Week: 02 June, 2021 - 09 June, 2021
 
-Markdown   8 mins          ██████████████████████▓░░   91.24 % 
+SQL        12 mins         ███████████▓░░░░░░░░░░░░░   46.44 % 
+Python     11 mins         ██████████▓░░░░░░░░░░░░░░   43.09 % 
+Markdown   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 <!--END_SECTION:waka-->
 
