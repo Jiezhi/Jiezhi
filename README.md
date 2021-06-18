@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 June, 2021 - 16 June, 2021
+Week: 10 June, 2021 - 17 June, 2021
 
 XML        1 hr 32 mins    █████████▓░░░░░░░░░░░░░░░   38.27 % 
 Java       1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.44 % 
