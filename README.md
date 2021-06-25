@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 June, 2021 - 23 June, 2021
+Week: 18 June, 2021 - 24 June, 2021
 
 Python       2 hrs 52 mins   ████████████████▓░░░░░░░░   66.25 % 
 Bash         55 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 % 
