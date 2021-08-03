@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2021 - 01 August, 2021
+Week: 27 July, 2021 - 02 August, 2021
 
-Other      10 hrs 31 mins  ███████████████▓░░░░░░░░░   63.03 % 
-Python     5 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   35.73 % 
-Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other      10 hrs 23 mins  ████████████████░░░░░░░░░   63.45 % 
+Python     5 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   35.29 % 
+Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
