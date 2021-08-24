@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-⚡ Some statistics:
+⚡ Some statistics about me:
+[![Jiezhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tencent)](https://github.com/Jiezhi)
+
 
 <!--START_SECTION:waka-->
 ```text
