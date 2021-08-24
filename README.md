@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ⚡ Some statistics about me:
-[![Jiezhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tencent)](https://github.com/Jiezhi)
 
 
 <!--START_SECTION:waka-->
@@ -15,6 +14,11 @@ Other    22 mins         ▓░░░░░░░░░░░░░░░░░�
 Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
+
+
+[![Jiezhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tencent)](https://github.com/Jiezhi)
+
+
 
 [![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi&show_icons=true)](https://github.com/Jiezhi/github-readme-stats)
 
