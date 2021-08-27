@@ -16,7 +16,6 @@ CSV      8 mins          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-[![Jiezhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tencent)](https://github.com/Jiezhi)
 
 
 
