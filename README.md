@@ -5,12 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
+Week: 18 September, 2021 - 24 September, 2021
 
-Other    9 hrs 15 mins   ███████████████████▒░░░░░   77.05 % 
-Python   2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Bash     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-SQL      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other             2 hrs 52 mins   █████████████░░░░░░░░░░░░   51.76 % 
+Python            2 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.26 % 
+Bash              19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Protocol Buffer   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+SQL               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
