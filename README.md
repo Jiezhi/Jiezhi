@@ -5,11 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
-Python   2 hrs 39 mins   ███████████████████████░░   92.03 % 
-SQL      10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Text     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python     2 hrs 52 mins   ███████████████████████▒░   93.60 % 
+SQL        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
