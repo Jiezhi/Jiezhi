@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2021 - 13 November, 2021
+Week: 08 November, 2021 - 14 November, 2021
 
-Other    18 hrs 54 mins  ███████████████████▒░░░░░   76.77 % 
-Java     3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Python   2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-XML      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other    14 hrs 44 mins  █████████████████▒░░░░░░░   69.89 % 
+Python   3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Java     3 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+XML      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
 
