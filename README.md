@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2021 - 22 November, 2021
+Week: 17 November, 2021 - 23 November, 2021
 
-Python     6 hrs 22 mins   █████████████░░░░░░░░░░░░   51.71 % 
-Java       4 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   33.05 % 
-SQL        1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Markdown   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java       5 hrs           ██████████▓░░░░░░░░░░░░░░   42.40 % 
+Python     4 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   41.35 % 
+SQL        1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Markdown   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 <!--END_SECTION:waka-->
 
