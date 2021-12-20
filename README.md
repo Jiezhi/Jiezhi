@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2021 - 18 December, 2021
+Week: 13 December, 2021 - 19 December, 2021
 
-Python       9 hrs 13 mins   ███████████████▒░░░░░░░░░   61.22 % 
-Java         4 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Markdown     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-SQL          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Python       7 hrs 19 mins   ██████████████░░░░░░░░░░░   55.56 % 
+Java         4 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+SQL          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
