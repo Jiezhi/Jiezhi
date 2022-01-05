@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Python   6 hrs 47 mins   █████████████▓░░░░░░░░░░░   55.32 % 
-Other    2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
-Java     1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-SQL      45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-XML      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Other            8 hrs 16 mins   ████████████▒░░░░░░░░░░░░   48.73 % 
+Python           8 hrs 5 mins    ████████████░░░░░░░░░░░░░   47.64 % 
+Java             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
