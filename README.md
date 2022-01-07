@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-Other      16 hrs 42 mins  █████████████████▓░░░░░░░   70.16 % 
-Python     6 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Java       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other              21 hrs 52 mins  ███████████████████▓░░░░░   78.61 % 
+Python             4 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Java               1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Text               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+requirements.txt   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
 
