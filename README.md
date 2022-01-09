@@ -19,7 +19,7 @@ Markdown   3 mins          ░░░░░░░░░░░░░░░░░�
 
 
 
-[![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi&show_icons=true)](https://github.com/Jiezhi/github-readme-stats) [![](https://stats.justsong.cn/api/leetcode/?username=Jiezhi)](https://leetcode.com/Jiezhi/) 
+[![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi&show_icons=true)](https://github.com/Jiezhi/github-readme-stats)[![](https://stats.justsong.cn/api/leetcode/?username=Jiezhi)](https://leetcode.com/Jiezhi/) 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiezhi&hide=javascript,html)](https://github.com/Jiezhi/github-readme-stats)
 
