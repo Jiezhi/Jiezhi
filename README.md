@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2022 - 08 January, 2022
+Week: 03 January, 2022 - 09 January, 2022
 
-Other      33 hrs 4 mins   ████████████████████░░░░░   79.66 % 
-Python     5 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Java       2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Text       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other    36 hrs 17 mins  ███████████████████▓░░░░░   78.92 % 
+Python   6 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Java     3 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Bash     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Text     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 
