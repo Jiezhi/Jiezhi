@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-Other    30 hrs 3 mins   ████████████████████▓░░░░   82.88 % 
-Java     3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Python   2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Bash     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-XML      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other            25 hrs 8 mins   █████████████████████░░░░   84.50 % 
+Java             3 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Python           1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+XML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 <!--END_SECTION:waka-->
 
