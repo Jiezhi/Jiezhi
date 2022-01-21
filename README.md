@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 Other    20 hrs 26 mins  ██████████████████████▓░░   90.73 % 
 Python   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
