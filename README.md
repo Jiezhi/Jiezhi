@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2022 - 31 January, 2022
+Week: 26 January, 2022 - 01 February, 2022
 
-Other      32 hrs 46 mins  ████████████████████▒░░░░   81.72 % 
-Python     7 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Java       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other      24 hrs 41 mins  █████████████████████▒░░░   85.08 % 
+Python     4 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Java       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 <!--END_SECTION:waka-->
 
