@@ -5,10 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-Other    3 hrs 57 mins   ███████████████████████▒░   92.97 % 
-Python   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Other    3 hrs 3 mins    █████████████░░░░░░░░░░░░   52.59 % 
+Python   2 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.41 % 
 ```
 <!--END_SECTION:waka-->
 
