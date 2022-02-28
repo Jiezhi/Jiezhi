@@ -4,14 +4,17 @@
 
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Python      1 hr 16 mins    ██████████████████░░░░░░░   72.31 % 
-Java        18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Bash        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-VimL        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python      1 hr 37 mins    ███████████████████▒░░░░░   77.00 %
+Java        18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Bash        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+VimL        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+sshconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 
