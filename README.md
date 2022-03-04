@@ -6,13 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
+From: 24 February 2022 - To: 03 March 2022
 
-Python      2 hrs 53 mins   ████████████████▓░░░░░░░░   66.53 %
-Java        1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   27.51 %
-SQL         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-sshconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     3 hrs 16 mins   █████████████████▒░░░░░░░   69.22 %
+Java       1 hr 11 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
+SQL        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
