@@ -6,10 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
-Python   1 hr 48 mins    ███████████████████████▒░   93.30 %
-INI      7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Python   3 hrs 10 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
