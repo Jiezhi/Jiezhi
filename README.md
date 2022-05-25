@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-Python                     8 hrs 10 mins   ████████████████████▒░░░░   81.90 %
-Java                       50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Python                     9 hrs 4 mins    ██████████████████████▓░░   91.13 %
 conf                       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Nginx configuration file   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-SQL                        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Text                       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Nginx configuration file   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+SQL                        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Java                       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+sshconfig                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
