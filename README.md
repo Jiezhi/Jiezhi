@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 21 June 2022
+From: 15 June 2022 - To: 22 June 2022
 
-Python           4 hrs 56 mins   ████████████████▒░░░░░░░░   64.76 %
-SQL              1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   19.85 %
-Other            1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Python           5 hrs 49 mins   █████████████████░░░░░░░░   68.13 %
+SQL              1 hr 36 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+Other            1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
 ```
 
 <!--END_SECTION:waka-->
