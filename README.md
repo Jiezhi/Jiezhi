@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 July 2022 - To: 16 July 2022
+From: 10 July 2022 - To: 17 July 2022
 
 Scala        4 hrs 20 mins   █████████████░░░░░░░░░░░░   51.73 %
 Other        1 hr 34 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
