@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 18 July 2022
+From: 12 July 2022 - To: 19 July 2022
 
-Scala        4 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   38.29 %
-Python       3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.49 %
-Other        1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Python       3 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   38.74 %
+Scala        2 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.44 %
+Other        1 hr 34 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
 ```
 
 <!--END_SECTION:waka-->
