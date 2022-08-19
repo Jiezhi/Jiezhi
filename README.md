@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-⚡ Some statistics about me:
 
+⚡ Some statistics about my Github:
+
+
+[![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi&show_icons=true)](https://github.com/Jiezhi/github-readme-stats)
+
+
+🙇🏼 And I'm working hard on LeetCode now:
+
+[![Jiezhi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Jiezhi&theme=Light)](https://leetcode.com/Jiezhi/)
+
+💻 Fun fact about the Languages I used last week:
 
 <!--START_SECTION:waka-->
 
@@ -19,10 +29,6 @@ Other                 22 mins         ▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-
-
-
-[![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi&show_icons=true)](https://github.com/Jiezhi/github-readme-stats)[![](https://stats.justsong.cn/api/leetcode/?username=Jiezhi)](https://leetcode.com/Jiezhi/) 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiezhi&hide=javascript,html)](https://github.com/Jiezhi/github-readme-stats)
 
