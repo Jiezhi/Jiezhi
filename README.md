@@ -4,6 +4,8 @@
 ⚡ Some statistics about my Github:
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiezhi&rank=-B&margin-w=6)](https://github.com/Jiezhi)
+
 [![Jiezhi's github stats](https://github-readme-stats.vercel.app/api?username=Jiezhi&show_icons=true)](https://github.com/Jiezhi/github-readme-stats)
 
 
