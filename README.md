@@ -18,14 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-Python       10 hrs 55 mins  ████████████████████▒░░░░   81.13 %
-Properties   49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Java         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-XML          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-SQL          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Scala        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python           11 hrs 26 mins  █████████████████████▓░░░   87.17 %
+Properties       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Java             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+conf             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
