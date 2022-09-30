@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-Python      6 hrs 38 mins   ████████████████████████▓   98.69 %
-sshconfig   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-INI         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Java        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python      5 hrs 24 mins   █████████████████████▓░░░   86.25 %
+Java        25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Markdown    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Text        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
