@@ -18,11 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Python           1 hr 30 mins    ██████████████████████░░░   87.50 %
-Java             12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python           1 hr 21 mins    █████████████████████████   99.72 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
