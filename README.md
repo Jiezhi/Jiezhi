@@ -13,6 +13,7 @@
 
 [![Jiezhi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Jiezhi&theme=Light)](https://leetcode.com/Jiezhi/)
 
+<!--hide for now
 💻 Fun fact about the Languages I used last week:
 
 <!--START_SECTION:waka-->
@@ -25,7 +26,7 @@ Java     5 mins          █▓░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiezhi&hide=javascript,html)](https://github.com/Jiezhi/github-readme-stats)
