@@ -18,9 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 26 October 2022
+From: 20 October 2022 - To: 27 October 2022
 
-Other            30 hrs 7 mins   ███████████████████████░░   91.73 %
+Other            26 hrs 7 mins   ███████████████████████░░   91.77 %
 ```
 
 <!--END_SECTION:waka-->
