@@ -12,18 +12,18 @@
 🙇🏼 And I'm working hard on LeetCode now:
 
 [![Jiezhi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Jiezhi&theme=Light)](https://leetcode.com/Jiezhi/)
-
+<!--
 💻 Fun fact about the Languages I used last week:
-
+-->
 <!--START_SECTION:waka-->
-
+<!--
 ```text
 From: 01 March 2023 - To: 08 March 2023
 
 Python       11 mins         ███████████████████████▒░   93.94 %
 SSH Config   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 <!--
